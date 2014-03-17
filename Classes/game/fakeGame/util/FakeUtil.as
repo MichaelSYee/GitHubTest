@@ -12,15 +12,5 @@
 			return a-b;
 		}
 		
-		public function multiply(a:int,b:int):int
-		{
-			return a*b;
-		}
-		
-		public function divide(a:int,b:int):int
-		{
-			return a/b;	
-		}
-		
 	}
 }
