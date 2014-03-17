@@ -1,4 +1,11 @@
-﻿package stmath.game.fakeGame
+﻿/******************
+ * Header Comments
+ * @author
+ * @date
+ * @etc....
+ */
+
+package stmath.game.fakeGame
 {
 
 	import flash.display.GradientType;
@@ -11,10 +18,6 @@
 	import flash.text.TextField;
 	import flash.text.TextFieldType;
 	import flash.text.TextFormat;
-	
-	import stmath.game.GameLogicTesterG4;
-	import stmath.ui.loadingIndicator.LoadingIndicator;
-	import stmath.wrappers.CallbackSynchronizer;
 	
 	public class FakeGame extends Sprite
 	{
@@ -35,7 +38,7 @@
 		
 		override public function getArenaHeight():Number
 		{
-			return 480;
+			return 640;
 		}
 		
 		override public function getBackgroundColor():uint
