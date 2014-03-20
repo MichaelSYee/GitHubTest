@@ -5,9 +5,7 @@ Description:
 	Main game class, manages game objects, score, sound FX, etc.
 */
 
-/* Some more comment here 
-	comment in branch1
-*/
+/* Some more comment here */
 
 package contingutsMultimedia {	
 	import flash.display.MovieClip;
