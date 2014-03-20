@@ -5,7 +5,9 @@ Description:
 	Generic class for moving object
 */
 
-/* some test comment */
+/* some test comment
+	some more comment ...
+ */
 
 package contingutsMultimedia {
 
