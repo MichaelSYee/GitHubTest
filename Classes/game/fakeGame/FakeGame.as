@@ -23,6 +23,7 @@ package stmath.game.fakeGame
 	{
 		private var myOtherNumber:Number;
 		private var myNumber:Number:
+		private var myNumber2:Number;
 		private var a:Number;
 		private var b:Number;
 		private var c:Number;
