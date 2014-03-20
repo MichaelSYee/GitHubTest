@@ -21,6 +21,8 @@ package stmath.game.fakeGame
 	
 	public class FakeGame extends Sprite
 	{
+		private var myOtherNumber:Number;
+		private var myNumber:Number:
 		private var a:Number;
 		private var b:Number;
 		private var c:Number;
