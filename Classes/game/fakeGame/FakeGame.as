@@ -23,6 +23,7 @@ package stmath.game.fakeGame
 	{
 		private var a:Number;
 		private var b:Number;
+		private var c:Number;
 		
 		private var _accuracyBox:*;
 		private var _speedBox:*;
