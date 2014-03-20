@@ -21,6 +21,8 @@ package stmath.game.fakeGame
 	
 	public class FakeGame extends Sprite
 	{
+		private var myNumber:Number:
+		
 		private var _accuracyBox:*;
 		private var _speedBox:*;
 		private var _newFluencyBox:*;
