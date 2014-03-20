@@ -5,6 +5,8 @@ Description:
 	Generic class for item in game (a pac or a powerUp)
 */
 
+/* another test comment */
+
 package contingutsMultimedia {
 
 	import flash.display.MovieClip;

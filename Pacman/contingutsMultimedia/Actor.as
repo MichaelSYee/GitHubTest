@@ -5,6 +5,8 @@ Description:
 	Generic class for moving object
 */
 
+/* some test comment */
+
 package contingutsMultimedia {
 
 	import flash.geom.Point;
