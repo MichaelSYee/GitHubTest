@@ -35,7 +35,7 @@ package stmath.game.fakeGame
 		private var _newFluencyBox:*;
 		private var _autoAccelerateBox:*;
 		
-		private var b:*;
+		private var b:Number;
 		
 		private var _txtFmt:*;
 		
